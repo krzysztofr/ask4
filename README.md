@@ -1,4 +1,5 @@
 ask4
 ====
 
-Simple script to send multiple email messages.
+I often need to sent the same question about an offer to multiple companies. After few times I created this
+simple script to make the task easier.
